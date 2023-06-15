@@ -1,4 +1,4 @@
-#Code forked from code from Cohere's website: https://docs.cohere.com/reference/rerank-1
+#Code forked from code from Cohere's website: https://docs.cohere.com/docs/rerank-guide
 import cohere
 co = cohere.Client('XXXXXX')
 
